@@ -1,0 +1,21 @@
+packages/evals/framework/browseCliMcpBridge.ts
+  s_199de864fdc442::t_c2556bd3d76a0a 21-22,24,49,103-115,117,149-153
+packages/evals/framework/mcpLoopbackBridge.ts
+  s_199de864fdc442::t_5975310ff8a8af 1-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eecb7f9494c2dbb5bd90dc618709b3002df96196",
+  "prompts": {},
+  "sessions": {
+    "s_199de864fdc442": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef2256c0-e240-44d5-a34c-fbc22ec5bcbf",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Sydney Runkle <sydneymarierunkle@gmail.com>"
+    }
+  }
+}
