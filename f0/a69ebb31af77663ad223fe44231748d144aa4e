@@ -1,0 +1,20 @@
+packages/evals/framework/braintrust.ts
+  s_4339ea170bcbb4::t_83ae488e5ab464 87-94,99-100,102-103
+  s_4339ea170bcbb4::t_42495d90b2f10c 95-98,101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f0a69ebb31af77663ad223fe44231748d144aa4e",
+  "prompts": {},
+  "sessions": {
+    "s_4339ea170bcbb4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a55952f6-b1b8-44e6-a5b6-288d77b8b350",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Sydney Runkle <sydneymarierunkle@gmail.com>"
+    }
+  }
+}
