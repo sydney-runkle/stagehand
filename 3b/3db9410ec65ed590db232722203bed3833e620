@@ -1,0 +1,23 @@
+packages/evals/framework/codeExposure.ts
+  s_199de864fdc442::t_b8f3181018fcc4 1-87
+packages/evals/framework/claudeCodeToolAdapter.ts
+  s_199de864fdc442::t_24063f68214152 28,569
+packages/evals/framework/piToolAdapter.ts
+  s_199de864fdc442::t_a5242c6ee371d6 21,110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3b3db9410ec65ed590db232722203bed3833e620",
+  "prompts": {},
+  "sessions": {
+    "s_199de864fdc442": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef2256c0-e240-44d5-a34c-fbc22ec5bcbf",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Sydney Runkle <sydneymarierunkle@gmail.com>"
+    }
+  }
+}
