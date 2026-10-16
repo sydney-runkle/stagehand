@@ -1,0 +1,30 @@
+packages/evals/framework/deepagentsCodeBridge.ts
+  s_199de864fdc442::t_b2555ea30e3759 1-150
+packages/evals/tests/framework/deepagentsCodeBridge.test.ts
+  s_199de864fdc442::t_16db41c0cc1135 1-132
+  s_199de864fdc442::t_a942f1303be6a0 133
+packages/evals/framework/deepagentsRunner.ts
+  s_199de864fdc442::t_41c6d2cb703b9c 66-71,79-81
+packages/evals/framework/deepagentsToolAdapter.ts
+  s_199de864fdc442::t_4140c629d66e5a 16-21,54,120,125-186,191-193,197-202,206,208,213,226,228,235-237,244,247-251,267
+packages/evals/tests/framework/benchHarness.test.ts
+  s_199de864fdc442::t_b4ac9e4565ee49 145
+packages/evals/tests/framework/deepagentsToolAdapter.test.ts
+  s_199de864fdc442::t_12e004902574fe 21-23,27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "de91cd072317e79cd3f3257f31b966106026cb6d",
+  "prompts": {},
+  "sessions": {
+    "s_199de864fdc442": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef2256c0-e240-44d5-a34c-fbc22ec5bcbf",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Sydney Runkle <sydneymarierunkle@gmail.com>"
+    }
+  }
+}
