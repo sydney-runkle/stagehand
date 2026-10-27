@@ -1,0 +1,33 @@
+.changeset/extension-cdp-url.md
+  s_9bea6febbf0405::t_e6d9330321aacb 1-5
+packages/sdk-python/src/stagehand/_validation.py
+  s_9bea6febbf0405::t_ad7b623917ad65 19-28
+packages/sdk-python/src/stagehand/browser.py
+  s_9bea6febbf0405::t_f4fd5df73913bd 88-89,538,545-549,556,565-569
+packages/sdk-python/src/stagehand/client_models.py
+  s_9bea6febbf0405::t_e536aa95ef31df 20,110-111
+packages/sdk-python/src/stagehand/client_types.py
+  s_9bea6febbf0405::t_3437ad77b67306 70-71
+packages/sdk-python/src/stagehand/stagehand.py
+  s_9bea6febbf0405::t_21f49f26c88c78 490-493
+packages/sdk-python/tests/test_browser.py
+  s_9bea6febbf0405::t_0411bfe7446b73 602-633
+packages/sdk-python/tests/test_stagehand.py
+  s_9bea6febbf0405::t_1e26cc36e8a620 92,104,360-376
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c119e534b5cd9a04f01b7ca737903855f1521565",
+  "prompts": {},
+  "sessions": {
+    "s_9bea6febbf0405": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7db27352-288e-41e0-b3b5-f2975383eefa",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Sydney Runkle <sydneymarierunkle@gmail.com>"
+    }
+  }
+}
