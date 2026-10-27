@@ -1,0 +1,41 @@
+packages/integrations/deepagents/tests/test_middleware.py
+  s_16ca4471eaaccc::t_0f7607d20908c7 1-128
+  s_16ca4471eaaccc::t_6d453ea30769c8 129-130
+packages/integrations/deepagents/src/stagehand_deepagents/middleware.py
+  s_16ca4471eaaccc::t_6233500820940f 1-163
+  s_16ca4471eaaccc::t_36a957ebbe1127 164-178
+packages/integrations/deepagents/README.md
+  s_16ca4471eaaccc::t_2d442d84c87357 3-24,26,28,34,63,65-67,69
+packages/integrations/deepagents/examples/local/agent.py
+  s_16ca4471eaaccc::t_f7aa6280c3d89b 8,33-38
+packages/integrations/deepagents/examples/local/agents2.py
+  s_16ca4471eaaccc::t_5e68c5b07f29e0 8,43-49
+packages/integrations/deepagents/examples/local/pyproject.toml
+  s_16ca4471eaaccc::t_1595f78716cf81 12,21-23
+packages/integrations/deepagents/examples/local/uv.lock
+  s_16ca4471eaaccc::t_82af6b8d15bf4b 1153-1176,1188,1200
+packages/integrations/deepagents/pyproject.toml
+  s_16ca4471eaaccc::t_241fe99a730cb1 7-11
+packages/integrations/deepagents/src/stagehand_deepagents/__init__.py
+  s_16ca4471eaaccc::t_a96a5ae019f683 3,6
+packages/integrations/deepagents/src/stagehand_deepagents/runtime.py
+  s_16ca4471eaaccc::t_2be9aa331ffeeb 87-88,93,139
+packages/integrations/deepagents/uv.lock
+  s_16ca4471eaaccc::t_edae57b0aeef10 4-7,66-212,253-265,281-306,325-345,373-503,516-629,803-857,872-898,1090,1104,1131-1139,1196-1204,1226-1294,1409-1663
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7b809429ac6302151b48876d26c9173486bc0ac6",
+  "prompts": {},
+  "sessions": {
+    "s_16ca4471eaaccc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab78d3c4-ce9f-4ad2-8bcf-e7b7fe9d8b83",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Sydney Runkle <sydneymarierunkle@gmail.com>"
+    }
+  }
+}
