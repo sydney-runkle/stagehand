@@ -1,0 +1,25 @@
+packages/integrations/deepagents/src/stagehand_deepagents/middleware.py
+  s_16ca4471eaaccc::t_259720e8cf9f55 31
+  s_16ca4471eaaccc::t_2ec85dbdef29b9 39-41,43-49,56-64,67-77
+  s_16ca4471eaaccc::t_e1bf47f01e4ab7 15
+packages/integrations/deepagents/README.md
+  s_16ca4471eaaccc::t_16e53bfc95f55d 9,13,18-25
+packages/integrations/deepagents/tests/test_middleware.py
+  s_16ca4471eaaccc::t_d3464452f6feaa 78-90,96,115,128,134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "031b16a445d49946c3604a8765fd72df9c549705",
+  "prompts": {},
+  "sessions": {
+    "s_16ca4471eaaccc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ab78d3c4-ce9f-4ad2-8bcf-e7b7fe9d8b83",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Sydney Runkle <sydneymarierunkle@gmail.com>"
+    }
+  }
+}
